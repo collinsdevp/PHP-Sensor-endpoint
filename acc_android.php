@@ -5,7 +5,7 @@ error_reporting(0);
 
 $hostname="localhost";
 $username="id1704752_colllz";
-$password="qwertyuiop12";
+$password="";
 $dbname="id1704752_readings";
 
 
